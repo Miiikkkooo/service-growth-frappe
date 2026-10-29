@@ -1,0 +1,19 @@
+{
+  "doctype": "Page",
+  "name": "growth-dashboard",
+  "page_name": "growth-dashboard",
+  "title": "用户增长驾驶舱",
+  "module": "Growth",
+  "standard": "Yes",
+  "roles": [
+    {
+      "role": "Growth Viewer"
+    },
+    {
+      "role": "Growth Manager"
+    },
+    {
+      "role": "System Manager"
+    }
+  ]
+}

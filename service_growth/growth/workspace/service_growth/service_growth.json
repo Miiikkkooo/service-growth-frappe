@@ -1,0 +1,45 @@
+{
+  "doctype": "Workspace",
+  "name": "Service Growth",
+  "label": "Service Growth",
+  "title": "Service Growth",
+  "module": "Growth",
+  "public": 1,
+  "is_hidden": 0,
+  "icon": "chart",
+  "content": "[{\"id\": \"growth-title\", \"type\": \"header\", \"data\": {\"text\": \"<span class=\\\"h4\\\">服务增长洞察</span>\", \"col\": 12}}, {\"id\": \"growth-0\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"服务单据\", \"col\": 4}}, {\"id\": \"growth-1\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"增长报表\", \"col\": 4}}, {\"id\": \"growth-2\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"增长驾驶舱\", \"col\": 4}}]",
+  "shortcuts": [
+    {
+      "label": "服务单据",
+      "type": "DocType",
+      "link_to": "Service Record",
+      "doc_view": "List"
+    },
+    {
+      "label": "增长报表",
+      "type": "Report",
+      "link_to": "User Growth",
+      "report_ref_doctype": "Service Record"
+    },
+    {
+      "label": "增长驾驶舱",
+      "type": "Page",
+      "link_to": "growth-dashboard"
+    }
+  ],
+  "roles": [
+    {
+      "role": "Growth Viewer"
+    },
+    {
+      "role": "Growth Manager"
+    },
+    {
+      "role": "System Manager"
+    }
+  ],
+  "charts": [],
+  "links": [],
+  "number_cards": [],
+  "quick_lists": []
+}

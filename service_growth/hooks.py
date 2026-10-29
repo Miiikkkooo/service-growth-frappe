@@ -1,0 +1,7 @@
+app_name = "service_growth"
+app_title = "Service Growth"
+app_publisher = "Service Growth Contributors"
+app_description = "Service lifecycle and growth analytics"
+app_email = ""
+app_license = "MIT"
+before_install = "service_growth.install.after_install"

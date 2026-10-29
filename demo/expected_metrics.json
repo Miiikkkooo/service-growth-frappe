@@ -1,0 +1,1678 @@
+{
+  "rows": [
+    {
+      "period": "2026-05-01",
+      "new": 4,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 0,
+      "net": 4,
+      "closing": 4
+    },
+    {
+      "period": "2026-05-02",
+      "new": 4,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 4,
+      "net": 4,
+      "closing": 8
+    },
+    {
+      "period": "2026-05-03",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 8,
+      "net": 2,
+      "closing": 10
+    },
+    {
+      "period": "2026-05-04",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 10,
+      "net": 2,
+      "closing": 12
+    },
+    {
+      "period": "2026-05-05",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 12,
+      "net": 2,
+      "closing": 14
+    },
+    {
+      "period": "2026-05-06",
+      "new": 7,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 14,
+      "net": 7,
+      "closing": 21
+    },
+    {
+      "period": "2026-05-07",
+      "new": 5,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 21,
+      "net": 5,
+      "closing": 26
+    },
+    {
+      "period": "2026-05-08",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 26,
+      "net": 0,
+      "closing": 26
+    },
+    {
+      "period": "2026-05-09",
+      "new": 3,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 26,
+      "net": 3,
+      "closing": 29
+    },
+    {
+      "period": "2026-05-10",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 29,
+      "net": 1,
+      "closing": 30
+    },
+    {
+      "period": "2026-05-11",
+      "new": 5,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 30,
+      "net": 5,
+      "closing": 35
+    },
+    {
+      "period": "2026-05-12",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 35,
+      "net": 0,
+      "closing": 35
+    },
+    {
+      "period": "2026-05-13",
+      "new": 4,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 35,
+      "net": 4,
+      "closing": 39
+    },
+    {
+      "period": "2026-05-14",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 39,
+      "net": 1,
+      "closing": 40
+    },
+    {
+      "period": "2026-05-15",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 40,
+      "net": 1,
+      "closing": 41
+    },
+    {
+      "period": "2026-05-16",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 41,
+      "net": 1,
+      "closing": 42
+    },
+    {
+      "period": "2026-05-17",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 42,
+      "net": 1,
+      "closing": 43
+    },
+    {
+      "period": "2026-05-18",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 43,
+      "net": 2,
+      "closing": 45
+    },
+    {
+      "period": "2026-05-19",
+      "new": 3,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 45,
+      "net": 3,
+      "closing": 48
+    },
+    {
+      "period": "2026-05-20",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 48,
+      "net": 2,
+      "closing": 50
+    },
+    {
+      "period": "2026-05-21",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 50,
+      "net": 0,
+      "closing": 50
+    },
+    {
+      "period": "2026-05-22",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 50,
+      "net": 0,
+      "closing": 50
+    },
+    {
+      "period": "2026-05-23",
+      "new": 3,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 50,
+      "net": 3,
+      "closing": 53
+    },
+    {
+      "period": "2026-05-24",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 53,
+      "net": 1,
+      "closing": 54
+    },
+    {
+      "period": "2026-05-25",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 54,
+      "net": 1,
+      "closing": 55
+    },
+    {
+      "period": "2026-05-26",
+      "new": 3,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 55,
+      "net": 3,
+      "closing": 58
+    },
+    {
+      "period": "2026-05-27",
+      "new": 3,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 58,
+      "net": 2,
+      "closing": 60
+    },
+    {
+      "period": "2026-05-28",
+      "new": 3,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 60,
+      "net": 3,
+      "closing": 63
+    },
+    {
+      "period": "2026-05-29",
+      "new": 3,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 63,
+      "net": 3,
+      "closing": 66
+    },
+    {
+      "period": "2026-05-30",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 66,
+      "net": 1,
+      "closing": 67
+    },
+    {
+      "period": "2026-05-31",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 67,
+      "net": 2,
+      "closing": 69
+    },
+    {
+      "period": "2026-06-01",
+      "new": 3,
+      "reactivated": 1,
+      "churn": 1,
+      "opening": 69,
+      "net": 3,
+      "closing": 72
+    },
+    {
+      "period": "2026-06-02",
+      "new": 3,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 72,
+      "net": 3,
+      "closing": 75
+    },
+    {
+      "period": "2026-06-03",
+      "new": 0,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 75,
+      "net": 1,
+      "closing": 76
+    },
+    {
+      "period": "2026-06-04",
+      "new": 2,
+      "reactivated": 1,
+      "churn": 1,
+      "opening": 76,
+      "net": 2,
+      "closing": 78
+    },
+    {
+      "period": "2026-06-05",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 78,
+      "net": 0,
+      "closing": 78
+    },
+    {
+      "period": "2026-06-06",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 78,
+      "net": 2,
+      "closing": 80
+    },
+    {
+      "period": "2026-06-07",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 80,
+      "net": 2,
+      "closing": 82
+    },
+    {
+      "period": "2026-06-08",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 82,
+      "net": 1,
+      "closing": 83
+    },
+    {
+      "period": "2026-06-09",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 83,
+      "net": 2,
+      "closing": 85
+    },
+    {
+      "period": "2026-06-10",
+      "new": 4,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 85,
+      "net": 4,
+      "closing": 89
+    },
+    {
+      "period": "2026-06-11",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 89,
+      "net": 0,
+      "closing": 89
+    },
+    {
+      "period": "2026-06-12",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 89,
+      "net": 1,
+      "closing": 90
+    },
+    {
+      "period": "2026-06-13",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 90,
+      "net": -2,
+      "closing": 88
+    },
+    {
+      "period": "2026-06-14",
+      "new": 1,
+      "reactivated": 1,
+      "churn": 1,
+      "opening": 88,
+      "net": 1,
+      "closing": 89
+    },
+    {
+      "period": "2026-06-15",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 89,
+      "net": 2,
+      "closing": 91
+    },
+    {
+      "period": "2026-06-16",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 91,
+      "net": 1,
+      "closing": 92
+    },
+    {
+      "period": "2026-06-17",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 92,
+      "net": 0,
+      "closing": 92
+    },
+    {
+      "period": "2026-06-18",
+      "new": 3,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 92,
+      "net": 2,
+      "closing": 94
+    },
+    {
+      "period": "2026-06-19",
+      "new": 3,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 94,
+      "net": 2,
+      "closing": 96
+    },
+    {
+      "period": "2026-06-20",
+      "new": 4,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 96,
+      "net": 3,
+      "closing": 99
+    },
+    {
+      "period": "2026-06-21",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 99,
+      "net": 1,
+      "closing": 100
+    },
+    {
+      "period": "2026-06-22",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 100,
+      "net": 0,
+      "closing": 100
+    },
+    {
+      "period": "2026-06-23",
+      "new": 3,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 100,
+      "net": 4,
+      "closing": 104
+    },
+    {
+      "period": "2026-06-24",
+      "new": 5,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 104,
+      "net": 6,
+      "closing": 110
+    },
+    {
+      "period": "2026-06-25",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 110,
+      "net": -1,
+      "closing": 109
+    },
+    {
+      "period": "2026-06-26",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 109,
+      "net": 1,
+      "closing": 110
+    },
+    {
+      "period": "2026-06-27",
+      "new": 3,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 110,
+      "net": 1,
+      "closing": 111
+    },
+    {
+      "period": "2026-06-28",
+      "new": 4,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 111,
+      "net": 3,
+      "closing": 114
+    },
+    {
+      "period": "2026-06-29",
+      "new": 1,
+      "reactivated": 1,
+      "churn": 1,
+      "opening": 114,
+      "net": 1,
+      "closing": 115
+    },
+    {
+      "period": "2026-06-30",
+      "new": 3,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 115,
+      "net": 4,
+      "closing": 119
+    },
+    {
+      "period": "2026-07-01",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 119,
+      "net": 0,
+      "closing": 119
+    },
+    {
+      "period": "2026-07-02",
+      "new": 4,
+      "reactivated": 0,
+      "churn": 3,
+      "opening": 119,
+      "net": 1,
+      "closing": 120
+    },
+    {
+      "period": "2026-07-03",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 120,
+      "net": -1,
+      "closing": 119
+    },
+    {
+      "period": "2026-07-04",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 119,
+      "net": 0,
+      "closing": 119
+    },
+    {
+      "period": "2026-07-05",
+      "new": 3,
+      "reactivated": 1,
+      "churn": 1,
+      "opening": 119,
+      "net": 3,
+      "closing": 122
+    },
+    {
+      "period": "2026-07-06",
+      "new": 6,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 122,
+      "net": 6,
+      "closing": 128
+    },
+    {
+      "period": "2026-07-07",
+      "new": 0,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 128,
+      "net": 1,
+      "closing": 129
+    },
+    {
+      "period": "2026-07-08",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 3,
+      "opening": 129,
+      "net": -1,
+      "closing": 128
+    },
+    {
+      "period": "2026-07-09",
+      "new": 1,
+      "reactivated": 1,
+      "churn": 1,
+      "opening": 128,
+      "net": 1,
+      "closing": 129
+    },
+    {
+      "period": "2026-07-10",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 129,
+      "net": -1,
+      "closing": 128
+    },
+    {
+      "period": "2026-07-11",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 128,
+      "net": 2,
+      "closing": 130
+    },
+    {
+      "period": "2026-07-12",
+      "new": 2,
+      "reactivated": 1,
+      "churn": 1,
+      "opening": 130,
+      "net": 2,
+      "closing": 132
+    },
+    {
+      "period": "2026-07-13",
+      "new": 1,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 132,
+      "net": 2,
+      "closing": 134
+    },
+    {
+      "period": "2026-07-14",
+      "new": 1,
+      "reactivated": 1,
+      "churn": 1,
+      "opening": 134,
+      "net": 1,
+      "closing": 135
+    },
+    {
+      "period": "2026-07-15",
+      "new": 1,
+      "reactivated": 1,
+      "churn": 1,
+      "opening": 135,
+      "net": 1,
+      "closing": 136
+    },
+    {
+      "period": "2026-07-16",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 136,
+      "net": 0,
+      "closing": 136
+    },
+    {
+      "period": "2026-07-17",
+      "new": 3,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 136,
+      "net": 2,
+      "closing": 138
+    },
+    {
+      "period": "2026-07-18",
+      "new": 2,
+      "reactivated": 2,
+      "churn": 3,
+      "opening": 138,
+      "net": 1,
+      "closing": 139
+    },
+    {
+      "period": "2026-07-19",
+      "new": 3,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 139,
+      "net": 2,
+      "closing": 141
+    },
+    {
+      "period": "2026-07-20",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 141,
+      "net": -2,
+      "closing": 139
+    },
+    {
+      "period": "2026-07-21",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 139,
+      "net": 0,
+      "closing": 139
+    },
+    {
+      "period": "2026-07-22",
+      "new": 2,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 139,
+      "net": 3,
+      "closing": 142
+    },
+    {
+      "period": "2026-07-23",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 142,
+      "net": 0,
+      "closing": 142
+    },
+    {
+      "period": "2026-07-24",
+      "new": 0,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 142,
+      "net": 1,
+      "closing": 143
+    },
+    {
+      "period": "2026-07-25",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 143,
+      "net": -2,
+      "closing": 141
+    },
+    {
+      "period": "2026-07-26",
+      "new": 2,
+      "reactivated": 2,
+      "churn": 2,
+      "opening": 141,
+      "net": 2,
+      "closing": 143
+    },
+    {
+      "period": "2026-07-27",
+      "new": 3,
+      "reactivated": 1,
+      "churn": 1,
+      "opening": 143,
+      "net": 3,
+      "closing": 146
+    },
+    {
+      "period": "2026-07-28",
+      "new": 0,
+      "reactivated": 2,
+      "churn": 1,
+      "opening": 146,
+      "net": 1,
+      "closing": 147
+    },
+    {
+      "period": "2026-07-29",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 147,
+      "net": 0,
+      "closing": 147
+    },
+    {
+      "period": "2026-07-30",
+      "new": 1,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 147,
+      "net": 2,
+      "closing": 149
+    },
+    {
+      "period": "2026-07-31",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 149,
+      "net": 2,
+      "closing": 151
+    },
+    {
+      "period": "2026-08-01",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 151,
+      "net": 0,
+      "closing": 151
+    },
+    {
+      "period": "2026-08-02",
+      "new": 3,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 151,
+      "net": 4,
+      "closing": 155
+    },
+    {
+      "period": "2026-08-03",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 155,
+      "net": -1,
+      "closing": 154
+    },
+    {
+      "period": "2026-08-04",
+      "new": 2,
+      "reactivated": 1,
+      "churn": 2,
+      "opening": 154,
+      "net": 1,
+      "closing": 155
+    },
+    {
+      "period": "2026-08-05",
+      "new": 4,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 155,
+      "net": 4,
+      "closing": 159
+    },
+    {
+      "period": "2026-08-06",
+      "new": 1,
+      "reactivated": 1,
+      "churn": 1,
+      "opening": 159,
+      "net": 1,
+      "closing": 160
+    },
+    {
+      "period": "2026-08-07",
+      "new": 0,
+      "reactivated": 1,
+      "churn": 2,
+      "opening": 160,
+      "net": -1,
+      "closing": 159
+    },
+    {
+      "period": "2026-08-08",
+      "new": 1,
+      "reactivated": 1,
+      "churn": 1,
+      "opening": 159,
+      "net": 1,
+      "closing": 160
+    },
+    {
+      "period": "2026-08-09",
+      "new": 3,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 160,
+      "net": 3,
+      "closing": 163
+    },
+    {
+      "period": "2026-08-10",
+      "new": 4,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 163,
+      "net": 2,
+      "closing": 165
+    },
+    {
+      "period": "2026-08-11",
+      "new": 3,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 165,
+      "net": 4,
+      "closing": 169
+    },
+    {
+      "period": "2026-08-12",
+      "new": 4,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 169,
+      "net": 4,
+      "closing": 173
+    },
+    {
+      "period": "2026-08-13",
+      "new": 1,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 173,
+      "net": 2,
+      "closing": 175
+    },
+    {
+      "period": "2026-08-14",
+      "new": 0,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 175,
+      "net": 1,
+      "closing": 176
+    },
+    {
+      "period": "2026-08-15",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 176,
+      "net": -1,
+      "closing": 175
+    },
+    {
+      "period": "2026-08-16",
+      "new": 2,
+      "reactivated": 1,
+      "churn": 3,
+      "opening": 175,
+      "net": 0,
+      "closing": 175
+    },
+    {
+      "period": "2026-08-17",
+      "new": 3,
+      "reactivated": 2,
+      "churn": 2,
+      "opening": 175,
+      "net": 3,
+      "closing": 178
+    },
+    {
+      "period": "2026-08-18",
+      "new": 1,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 178,
+      "net": 2,
+      "closing": 180
+    },
+    {
+      "period": "2026-08-19",
+      "new": 5,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 180,
+      "net": 5,
+      "closing": 185
+    },
+    {
+      "period": "2026-08-20",
+      "new": 5,
+      "reactivated": 2,
+      "churn": 2,
+      "opening": 185,
+      "net": 5,
+      "closing": 190
+    },
+    {
+      "period": "2026-08-21",
+      "new": 4,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 190,
+      "net": 2,
+      "closing": 192
+    },
+    {
+      "period": "2026-08-22",
+      "new": 3,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 192,
+      "net": 3,
+      "closing": 195
+    },
+    {
+      "period": "2026-08-23",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 195,
+      "net": 1,
+      "closing": 196
+    },
+    {
+      "period": "2026-08-24",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 196,
+      "net": 0,
+      "closing": 196
+    },
+    {
+      "period": "2026-08-25",
+      "new": 2,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 196,
+      "net": 3,
+      "closing": 199
+    },
+    {
+      "period": "2026-08-26",
+      "new": 2,
+      "reactivated": 3,
+      "churn": 1,
+      "opening": 199,
+      "net": 4,
+      "closing": 203
+    },
+    {
+      "period": "2026-08-27",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 203,
+      "net": 2,
+      "closing": 205
+    },
+    {
+      "period": "2026-08-28",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 205,
+      "net": 0,
+      "closing": 205
+    },
+    {
+      "period": "2026-08-29",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 205,
+      "net": -1,
+      "closing": 204
+    },
+    {
+      "period": "2026-08-30",
+      "new": 3,
+      "reactivated": 2,
+      "churn": 0,
+      "opening": 204,
+      "net": 5,
+      "closing": 209
+    },
+    {
+      "period": "2026-08-31",
+      "new": 2,
+      "reactivated": 1,
+      "churn": 2,
+      "opening": 209,
+      "net": 1,
+      "closing": 210
+    },
+    {
+      "period": "2026-09-01",
+      "new": 5,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 210,
+      "net": 3,
+      "closing": 213
+    },
+    {
+      "period": "2026-09-02",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 213,
+      "net": 2,
+      "closing": 215
+    },
+    {
+      "period": "2026-09-03",
+      "new": 2,
+      "reactivated": 2,
+      "churn": 3,
+      "opening": 215,
+      "net": 1,
+      "closing": 216
+    },
+    {
+      "period": "2026-09-04",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 216,
+      "net": -1,
+      "closing": 215
+    },
+    {
+      "period": "2026-09-05",
+      "new": 1,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 215,
+      "net": 2,
+      "closing": 217
+    },
+    {
+      "period": "2026-09-06",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 217,
+      "net": 1,
+      "closing": 218
+    },
+    {
+      "period": "2026-09-07",
+      "new": 1,
+      "reactivated": 1,
+      "churn": 7,
+      "opening": 218,
+      "net": -5,
+      "closing": 213
+    },
+    {
+      "period": "2026-09-08",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 213,
+      "net": 0,
+      "closing": 213
+    },
+    {
+      "period": "2026-09-09",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 213,
+      "net": 1,
+      "closing": 214
+    },
+    {
+      "period": "2026-09-10",
+      "new": 3,
+      "reactivated": 2,
+      "churn": 4,
+      "opening": 214,
+      "net": 1,
+      "closing": 215
+    },
+    {
+      "period": "2026-09-11",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 4,
+      "opening": 215,
+      "net": -4,
+      "closing": 211
+    },
+    {
+      "period": "2026-09-12",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 211,
+      "net": -1,
+      "closing": 210
+    },
+    {
+      "period": "2026-09-13",
+      "new": 2,
+      "reactivated": 2,
+      "churn": 0,
+      "opening": 210,
+      "net": 4,
+      "closing": 214
+    },
+    {
+      "period": "2026-09-14",
+      "new": 1,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 214,
+      "net": 2,
+      "closing": 216
+    },
+    {
+      "period": "2026-09-15",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 216,
+      "net": 2,
+      "closing": 218
+    },
+    {
+      "period": "2026-09-16",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 218,
+      "net": -1,
+      "closing": 217
+    },
+    {
+      "period": "2026-09-17",
+      "new": 3,
+      "reactivated": 4,
+      "churn": 0,
+      "opening": 217,
+      "net": 7,
+      "closing": 224
+    },
+    {
+      "period": "2026-09-18",
+      "new": 3,
+      "reactivated": 1,
+      "churn": 2,
+      "opening": 224,
+      "net": 2,
+      "closing": 226
+    },
+    {
+      "period": "2026-09-19",
+      "new": 3,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 226,
+      "net": 2,
+      "closing": 228
+    },
+    {
+      "period": "2026-09-20",
+      "new": 2,
+      "reactivated": 2,
+      "churn": 0,
+      "opening": 228,
+      "net": 4,
+      "closing": 232
+    },
+    {
+      "period": "2026-09-21",
+      "new": 4,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 232,
+      "net": 5,
+      "closing": 237
+    },
+    {
+      "period": "2026-09-22",
+      "new": 1,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 237,
+      "net": 2,
+      "closing": 239
+    },
+    {
+      "period": "2026-09-23",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 239,
+      "net": -1,
+      "closing": 238
+    },
+    {
+      "period": "2026-09-24",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 238,
+      "net": 2,
+      "closing": 240
+    },
+    {
+      "period": "2026-09-25",
+      "new": 3,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 240,
+      "net": 3,
+      "closing": 243
+    },
+    {
+      "period": "2026-09-26",
+      "new": 4,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 243,
+      "net": 5,
+      "closing": 248
+    },
+    {
+      "period": "2026-09-27",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 248,
+      "net": 0,
+      "closing": 248
+    },
+    {
+      "period": "2026-09-28",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 248,
+      "net": 0,
+      "closing": 248
+    },
+    {
+      "period": "2026-09-29",
+      "new": 0,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 248,
+      "net": 1,
+      "closing": 249
+    },
+    {
+      "period": "2026-09-30",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 249,
+      "net": 1,
+      "closing": 250
+    },
+    {
+      "period": "2026-10-01",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 250,
+      "net": 0,
+      "closing": 250
+    },
+    {
+      "period": "2026-10-02",
+      "new": 6,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 250,
+      "net": 6,
+      "closing": 256
+    },
+    {
+      "period": "2026-10-03",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 256,
+      "net": 1,
+      "closing": 257
+    },
+    {
+      "period": "2026-10-04",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 3,
+      "opening": 257,
+      "net": -2,
+      "closing": 255
+    },
+    {
+      "period": "2026-10-05",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 255,
+      "net": 0,
+      "closing": 255
+    },
+    {
+      "period": "2026-10-06",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 255,
+      "net": -1,
+      "closing": 254
+    },
+    {
+      "period": "2026-10-07",
+      "new": 3,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 254,
+      "net": 2,
+      "closing": 256
+    },
+    {
+      "period": "2026-10-08",
+      "new": 4,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 256,
+      "net": 2,
+      "closing": 258
+    },
+    {
+      "period": "2026-10-09",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 258,
+      "net": 1,
+      "closing": 259
+    },
+    {
+      "period": "2026-10-10",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 3,
+      "opening": 259,
+      "net": -1,
+      "closing": 258
+    },
+    {
+      "period": "2026-10-11",
+      "new": 0,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 258,
+      "net": 1,
+      "closing": 259
+    },
+    {
+      "period": "2026-10-12",
+      "new": 4,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 259,
+      "net": 4,
+      "closing": 263
+    },
+    {
+      "period": "2026-10-13",
+      "new": 4,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 263,
+      "net": 5,
+      "closing": 268
+    },
+    {
+      "period": "2026-10-14",
+      "new": 1,
+      "reactivated": 1,
+      "churn": 1,
+      "opening": 268,
+      "net": 1,
+      "closing": 269
+    },
+    {
+      "period": "2026-10-15",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 269,
+      "net": 2,
+      "closing": 271
+    },
+    {
+      "period": "2026-10-16",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 271,
+      "net": 0,
+      "closing": 271
+    },
+    {
+      "period": "2026-10-17",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 271,
+      "net": 0,
+      "closing": 271
+    },
+    {
+      "period": "2026-10-18",
+      "new": 3,
+      "reactivated": 2,
+      "churn": 0,
+      "opening": 271,
+      "net": 5,
+      "closing": 276
+    },
+    {
+      "period": "2026-10-19",
+      "new": 4,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 276,
+      "net": 4,
+      "closing": 280
+    },
+    {
+      "period": "2026-10-20",
+      "new": 2,
+      "reactivated": 1,
+      "churn": 0,
+      "opening": 280,
+      "net": 3,
+      "closing": 283
+    },
+    {
+      "period": "2026-10-21",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 283,
+      "net": -2,
+      "closing": 281
+    },
+    {
+      "period": "2026-10-22",
+      "new": 2,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 281,
+      "net": 0,
+      "closing": 281
+    },
+    {
+      "period": "2026-10-23",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 281,
+      "net": -2,
+      "closing": 279
+    },
+    {
+      "period": "2026-10-24",
+      "new": 5,
+      "reactivated": 0,
+      "churn": 2,
+      "opening": 279,
+      "net": 3,
+      "closing": 282
+    },
+    {
+      "period": "2026-10-25",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 282,
+      "net": -1,
+      "closing": 281
+    },
+    {
+      "period": "2026-10-26",
+      "new": 3,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 281,
+      "net": 2,
+      "closing": 283
+    },
+    {
+      "period": "2026-10-27",
+      "new": 3,
+      "reactivated": 0,
+      "churn": 1,
+      "opening": 283,
+      "net": 2,
+      "closing": 285
+    },
+    {
+      "period": "2026-10-28",
+      "new": 1,
+      "reactivated": 0,
+      "churn": 3,
+      "opening": 285,
+      "net": -2,
+      "closing": 283
+    },
+    {
+      "period": "2026-10-29",
+      "new": 0,
+      "reactivated": 0,
+      "churn": 0,
+      "opening": 283,
+      "net": 0,
+      "closing": 283
+    }
+  ],
+  "totals": {
+    "new": 360,
+    "reactivated": 72,
+    "churn": 149,
+    "net": 283,
+    "opening": 0,
+    "closing": 283,
+    "churn_rate": null
+  },
+  "cities": {
+    "金华": 58,
+    "绍兴": 56,
+    "杭州": 45,
+    "温州": 44,
+    "嘉兴": 41,
+    "宁波": 39
+  },
+  "channels": {
+    "合作渠道": 77,
+    "用户推荐": 75,
+    "线上推广": 73,
+    "线下门店": 58
+  },
+  "reasons": {
+    "价格因素": 32,
+    "其他": 28,
+    "多服务同时关闭": 27,
+    "迁移离开": 21,
+    "需求结束": 21,
+    "服务体验": 20
+  },
+  "from_date": "2026-05-01",
+  "to_date": "2026-10-29",
+  "grain": "day",
+  "record_count": 505,
+  "has_mock": true
+}
